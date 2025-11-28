@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+
+# Build
+/dist
+/tmp
+/out-tsc
+/.angular/cache
+
+# IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
